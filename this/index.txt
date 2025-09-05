@@ -1,0 +1,13 @@
+this = current object jis context me code chal raha hai.
+
+Class ke andar → new object ko point karta hai.
+
+Object method ke andar → us object ko point karta hai.
+
+Normal function me → global (ya undefined strict mode).
+
+Arrow function me → surrounding scope ka this.
+
+this ek special keyword hai jo hamesha current context (object) ko point karta hai.
+
+Matlab this batata hai: “abhi jo code chal raha hai, wo kis object ke andar hai”.
